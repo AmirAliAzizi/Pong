@@ -28,7 +28,6 @@ public class Ball : MonoBehaviour
         GameManager.gameRunning = false;
     }
 
-
     private void OnCollisionEnter2D(Collision2D collision)
     {
 
